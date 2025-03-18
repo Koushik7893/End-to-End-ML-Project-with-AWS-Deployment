@@ -1,7 +1,3 @@
-Here's a well-structured **README** file for your **End-to-End Machine Learning Project with AWS Deployment**:  
-
----
-
 # **End-to-End Machine Learning Project with AWS Deployment**  
 
 ### 🚀 **Overview**  
